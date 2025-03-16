@@ -1,0 +1,6 @@
+sftp:
+  host: ${HOST}
+  port: 22
+  username: ${USERNAME}
+  password: ${PASSWORD}
+  remote-directory: ${DIRECTORY}
